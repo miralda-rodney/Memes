@@ -18,7 +18,7 @@
 <http://erau.edu/ontology/meme.owl#SurprisedPikachuMeme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://erau.edu/ontology/meme.owl#Meme> .
 <http://erau.edu/ontology/meme.owl#ShaggysPowerMeme> <http://erau.edu/ontology/meme.owl#syntaxTag> <http://erau.edu/ontology/meme.owl#ParodySyntaxTag> .
 <http://erau.edu/ontology/meme.owl#YouHavenoPowerHereMeme> <http://erau.edu/ontology/meme.owl#semanticTag> "lord of the rings"^^<http://www.w3.org/2001/XMLSchema#string> .
-<http://erau.edu/ontology/meme.owl#ConfusedBlackGirlMeme> <http://erau.edu/ontology/meme.owl#contentOrigin> "Facebook"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://erau.edu/ontology/meme.owl#ConfusedBlackGirlMeme> <http://erau.edu/ontology/meme.owl#contentOrigin> "Instagram"^^<http://www.w3.org/2001/XMLSchema#string> .
 _:Ndaae9a114af74500a5c82df501783fb4 <http://www.w3.org/2002/07/owl#maxQualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
 <http://erau.edu/ontology/meme.owl#ItAintMuchButItsHonestWorkMeme> <http://erau.edu/ontology/meme.owl#syntaxTag> <http://erau.edu/ontology/meme.owl#QuoteSyntaxTag> .
 <http://erau.edu/ontology/meme.owl#MrStarkIdontfeelsogoodMeme> <http://erau.edu/ontology/meme.owl#semanticTag> "snap"^^<http://www.w3.org/2001/XMLSchema#string> .

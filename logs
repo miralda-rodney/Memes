@@ -1,0 +1,30 @@
+2019-09-26 22:48:14,791 - quit - DEBUG - Logfile: C:\Users\miral\Test1\Memes\logs
+2019-09-26 22:48:14,791 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:48:14,793 - quit - INFO - QuitStore Configuration initialized.
+2019-09-26 22:48:14,793 - quit - DEBUG - Path of Gitrepo: C:\Users\miral\Test1\Memes
+2019-09-26 22:48:14,793 - quit.web.app - DEBUG - Has Garbage collection feature?: False
+2019-09-26 22:48:16,046 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:48:16,052 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:48:16,209 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:48:16,443 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:48:16,649 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:48:16,964 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:48:17,203 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:48:26,271 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:48:37,073 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:48:44,035 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:48:50,819 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:48:57,688 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:49:04,541 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:49:11,399 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:49:18,281 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:49:25,386 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:49:32,232 - quit.conf.QuitConfiguration - DEBUG - Initializing configuration object.
+2019-09-26 22:50:16,928 - quit.modules.endpoint - INFO - Received provenance query: None
+2019-09-26 22:50:24,383 - quit.modules.endpoint - INFO - Received provenance query: SELECT * WHERE {
+  ?sub ?pred ?obj .
+}
+LIMIT 10
+2019-09-26 22:50:56,649 - quit.modules.endpoint - INFO - Received provenance query: SELECT * WHERE {
+  ?sub ?pred ?obj .
+}
